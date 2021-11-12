@@ -1,4 +1,4 @@
-,Property Name,Price,House Type,Area in sq ft,No. of Bedrooms,No. of Bathrooms,No. of Receptions,Location,City/County,Postal Code
+,Property_Name,Price,House_Type,Area_in_sq_ft,Num_of_Bedrooms,Num_of_Bathrooms,Num_of_Receptions,Location,City/County,Postal_Code
 0,Queens Road,1675000,House,2716,5,5,5,Wimbledon,London,SW19 8NY
 1,Seward Street,650000,Flat / Apartment,814,2,2,2,Clerkenwell,London,EC1V 3PA
 2,Hotham Road,735000,Flat / Apartment,761,2,2,2,Putney,London,SW15 1QL
